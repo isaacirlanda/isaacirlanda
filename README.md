@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Isaac
 - 👀 I’m interested in Coding and photography
-- 🌱 I’m currently learning Javascript, Java and Python
-- 📫 How to reach me @ isaacirlanda@gmail.com
+- 🌱Currently learning Javascript, Java, C++, Rust and Python
 
 <!---
 isaacirlanda/isaacirlanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
